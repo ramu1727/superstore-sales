@@ -1,4 +1,4 @@
-# SUPERSTORE SALES
+# HR ANALYTICS
 # Power BI
 
 Data analysis using Power BI involves several steps to transform, visualize, and gain insights from your data. Here's a general overview of the process:
